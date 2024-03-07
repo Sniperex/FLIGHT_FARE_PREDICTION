@@ -1,6 +1,6 @@
 # Flight Fare Prediction Project and Analysis using Power BI
 
-This project focuses on predicting flight fares using machine learning techniques. The dataset has been meticulously cleaned, transformed, and prepared to ensure optimal performance of predictive models. Various techniques have been applied to enhance accuracy, including the implementation of a Linear Regression model, a Random Forest Regressor, and hyperparameter tuning.
+This project focuses on predicting flight fares using machine learning techniques and analyzing the flight dataset using Power BI for valuable insights. The dataset has been meticulously cleaned, transformed, and prepared to ensure optimal performance of predictive models. Various techniques have been applied to enhance accuracy, including the implementation of a Linear Regression model, a Random Forest Regressor, and hyperparameter tuning.
 
 ## Data Cleaning and Transformation
 
