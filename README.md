@@ -25,9 +25,6 @@ To further enhance prediction accuracy, a Random Forest Regressor was implemente
 
 Hyperparameter tuning was conducted on the Random Forest Regressor to optimize model performance. Techniques such as grid search or random search were employed to identify the optimal combination of hyperparameters, resulting in a remarkable accuracy of 88.01%.
 
-## Visualization
-
-Visualizations were crafted to elucidate relationships between different features and flight fares. These visualizations aid in identifying patterns, trends, and potential outliers, thereby facilitating informed decision-making during model development and analysis.
 
 ## Power BI Dashboard and Analysis
 
@@ -35,8 +32,11 @@ In addition to model building, a dynamic Power BI dashboard was developed to con
 
 - **Summary Statistics**: Provides an overview of key metrics such as average fare, route popularity, and distribution of fares.
 - **Trend Analysis**: Visualizes fare trends over time, by route, and other relevant factors to identify seasonal variations and market trends.
-- **Predictive Analysis**: Integrates predictive models to enable real-time fare predictions, allowing stakeholders to make informed decisions regarding pricing strategies and revenue management.
 
+Some snaps of the dashboard are attatched below-
+![Screenshot 2024-03-08 035016](https://github.com/Sniperex/FLIGHT_FARE_PREDICTION/assets/52499633/1281c216-f404-449d-b6bc-797eb451d0f1)
+
+![Screenshot 2024-03-08 034944](https://github.com/Sniperex/FLIGHT_FARE_PREDICTION/assets/52499633/e2ba9756-4de7-4c27-bfd3-14e7454f15f4)
 
 ## Contributors
 
